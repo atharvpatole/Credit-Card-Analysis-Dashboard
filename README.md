@@ -1,40 +1,33 @@
-# 💳 Credit Card Analysis Dashboard 
+# Credit Card Analysis Dashboard
 
-## 📌 Objective  
-Develop a weekly dashboard to visualize key metrics related to credit card transactions and customer behavior, supporting data-driven decisions.
+## Objective  
+A weekly dashboard to track key metrics in credit card transactions and customer behavior, enabling data-driven decision making.
 
-## 📁 Datasets  
-- Credit Card Financial Dataset (Week 52 & 53)  
-- Credit Card Customer Dataset (Week 52 & 53)  
+## Datasets  
+- Credit Card Financial Data (Week 52 & 53)  
+- Credit Card Customer Data (Week 52 & 53)
 
-## 🛠 Tools & Technologies  
-- **Excel** – Data preparation  
-- **MySQL** – Database setup  
-- **SQL** – Data querying  
-- **Power BI** – Data visualization  
-- **DAX** – Calculated measures & KPIs
+## Tools & Technologies  
+Excel • MySQL • SQL • Power BI • DAX
 
-## 🔄 Workflow  
-1. Cleaned CSV files using Excel  
-2. Imported datasets into MySQL  
+## Workflow  
+1. Cleaned CSV files  
+2. Loaded data into MySQL  
 3. Connected MySQL to Power BI  
-4. Created dashboards using DAX  
-5. Refreshed data after adding Week 53  
+4. Built dashboards using DAX  
+5. Updated visuals with Week 53 data  
 
-## 📊 Dashboards  
-- **Credit Card Transaction Report** – Week 52 & 53  
-- **Credit Card Customer Report** – Week 52 & 53  
+## Dashboards  
+- Credit Card Transaction Report  
+- Credit Card Customer Report  
 
-## 📈 Key Insights (Week 53 – Dec 31, 2023)  
-- Revenue increased by **28.8%**  
-- Transaction amount ↑ **35%**, transaction count ↑ **3.4%**  
-- Customer count ↑ **12.8%**  
-- **Year-to-date totals**:  
-  - Revenue: **$57M**  
-  - Interest: **$8M**  
-  - Transaction Amount: **$46M**  
-- Male customers contributed **$31M**, females **$26M**  
-- **Blue & Silver cards** made up **93.5%** of transactions  
-- **TX, NY, CA** contributed **68.8%** of all transactions  
-- Activation Rate: **57.5%**  
-- Delinquency Rate: **6.06%**
+## Key Insights (Week 53)  
+- Revenue increased **28.8%**  
+- Transaction amount up **35%**; count up **3.4%**  
+- Customer count up **12.8%**  
+- YTD Revenue: **$57M**, Interest: **$8M**, Transaction Amount: **$46M**  
+- Male: **$31M**, Female: **$26M**  
+- Blue & Silver cards: **93.5%** of transactions  
+- TX, NY, CA: **68.8%** of overall transactions  
+- Activation Rate: **57.5%**, Delinquency Rate: **6.06%**
+
